@@ -1,0 +1,16 @@
+#notateste= int(input("Digite a sua nota: "))
+#if notateste >= 6:
+#    print("Você atingiu a nota mínima!")
+
+
+#nome= input("Digite o seu nome: ")
+#idade= int(input("Digite a sua idade: "))
+
+#if idade <12:
+#    print(f"{nome}, você realmente é uma criança!")
+
+#elif idade >=12 and idade <=17:
+#    print(f"{nome}, você realmente é uma adolescente")
+
+#else: 
+    print(f"{nome}, você realmente está gagá!")
